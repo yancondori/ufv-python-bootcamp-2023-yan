@@ -1,0 +1,26 @@
+colors cheatsheet
+https://trinket.io/docs/colors
+
+
+Python for Everybody: Exploring Data With Python
+by Charles Severance
+https://books.trinket.io/pfe/index.html
+
+
+
+https://greenteapress.com/thinkpython/html/index.html
+
+
+Think OS 
+https://greenteapress.com/thinkos/html/index.html
+
+
+Think Data Structures
+by Allen B. Downey
+https://greenteapress.com/thinkdast/html/index.html
+https://github.com/AllenDowney/ThinkDataStructures
+
+
+jugar
+https://hourofpython.com/una-introduccion-visual-a-python/index.html
+

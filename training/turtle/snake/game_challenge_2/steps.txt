@@ -1,0 +1,27 @@
+Create a snake body
+
+Move the snake
+
+Control the snake
+
+Detect collision with food
+    - the food when we eat it appears in other place   
+turtle.home()
+turtle.distance(30,40)
+
+turtle.distance((30,40))
+
+joe = Turtle()
+joe.forward(77)
+turtle.distance(joe)
+
+Create a scoreboard
+    - while we eat, it grows
+
+Detect collision with wall
+    - solo la cabeza se puede estrellar
+
+
+Detect collision with tail
+    - head in 
+

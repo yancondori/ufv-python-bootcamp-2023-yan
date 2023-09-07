@@ -1,0 +1,5 @@
+add tk, in my case: 
+brew install python-tk@3.11
+
+Read the docs fast:
+https://docs.python.org/3/library/turtle.html#module-turtledemo
