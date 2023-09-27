@@ -12,7 +12,7 @@ COLORS = [
     "blue",
     "purple",
 ]  # Cars can be of any of these colors
-STARTING_MOVE_DISTANCE = 5  # Initial speed of our cars
+STARTING_MOVE_DISTANCE = 100  # la velocidad inicial se incrementa
 MOVE_INCREMENT = 10  # Speed increase each time we "level up"
 
 

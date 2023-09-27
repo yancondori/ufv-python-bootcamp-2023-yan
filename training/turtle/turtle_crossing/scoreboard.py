@@ -1,10 +1,10 @@
 from turtle import Turtle  # Importing the Turtle class from the turtle module
 
 FONT = (
-    "Courier",
-    24,
-    "normal",
-)  # Setting the font properties: Font family, size, and style
+    "Arial",
+    15,
+    "bold",
+)  # se cambia a fuente Arial, size 15 y estilo bold
 
 
 # Scoreboard inherits from the Turtle class. You could say Scoreboard is a kind of Turtle!
@@ -32,7 +32,7 @@ class Scoreboard(Turtle):
 
         # Write the current level to the screen at the position set in __init__
         # align="left" keeps our text aligned to the left side of our turtle
-        self.write(f"Level: {self.level}", align="left", font=FONT)
+        self.write(f"Nivel: {self.level}", align="right", font=FONT)
 
     # Called when the player successfully crosses the screen
     def increase_level(self):
