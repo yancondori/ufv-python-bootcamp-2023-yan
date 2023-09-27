@@ -29,7 +29,7 @@ die = [1,2,3,4,5,6]
 
 # The Game, input ask you how many times you roll the dice the shows you the resul (1 to 6) and it'd multiplies by 20
 for i in range(20):
-    if player_one.pos() >= (300,100):
+    if player_one.pos() >= (300,100): #the goal has the tuple (300,100)
             print("Player One Wins!")
             break
     elif player_two.pos() >= (300,-100):
